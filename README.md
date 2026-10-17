@@ -57,7 +57,7 @@
 
 ### LET'S CONNECT
 
-<a href="www.linkedin.com/in/olesya-shilova-a8065a169">
+<a href="https://www.linkedin.com/in/olesya-shilova-a8065a169">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" color="#B3CCF7A9" width="28" alt="LinkedIn"/>
 </a>
 

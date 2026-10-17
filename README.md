@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:24143D,50:7547B8,100:ED75C8&text=OLESYA&fontColor=B3CCF7A9&fontSize=58&fontAlignY=48&desc=Android%20Engineer%20%7C%20AOSP&descSize=13&descAlignY=72&animation=fadeIn&fontFamily=Comfortaa" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:24143D,50:7547B8,100:ED75C8&text=Hey%2C+I%27m+Olesya!&fontColor=B3CCF7A9&fontSize=58&fontAlignY=48&desc=Android%20Engineer%20%7C%20AOSP&descSize=13&descAlignY=72&animation=fadeIn" />
 
 <a href="https://github.com/Okoshuba">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=435&size=18&duration=2800&pause=900&color=B3CCF7FF&center=true&vCenter=true&width=650&lines=Building+Android+experiences;Kotlin+%2B+Jetpack+Compose;Exploring+the+Android+platform;Clean+code.+Thoughtful+architecture." alt="Typing animation" />

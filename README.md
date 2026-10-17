@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:24143D,50:7547B8,100:ED75C8&text=OLESYA&font=Fira+Code&fontColor=B3CCF7FF&fontSize=58&fontAlignY=48&desc=Android%20Engineer%20%7C%20AOSP&descSize=13&descAlignY=72&animation=fadeIn&fontFamily=Nunito" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:24143D,50:7547B8,100:ED75C8&text=OLESYA&fontColor=B3CCF7FF&fontSize=58&fontAlignY=48&desc=Android%20Engineer%20%7C%20AOSP&descSize=13&descAlignY=72&animation=fadeIn&fontFamily=Fira+Code" />
 
 <a href="https://github.com/Okoshuba">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=435&size=18&duration=2800&pause=900&color=B3CCF7FF&center=true&vCenter=true&width=650&lines=Building+Android+experiences;Kotlin+%2B+Jetpack+Compose;Exploring+the+Android+platform;Clean+code.+Thoughtful+architecture." alt="Typing animation" />
@@ -52,35 +52,3 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 💜 Emotions — A Personal Emotion Diary
-
-A modern Android application designed to help users record and reflect on their emotions.
-
-**Tech:** Kotlin · Jetpack Compose · Android
-
-🔗 [Explore the repository](https://github.com/Okoshuba/Emotions)
-
-### ⚙️ Android System Applications
-
-Production experience developing system applications for a custom Android-based operating system, including setup and onboarding flows, OTA functionality.
-
-**Focus:** AOSP · System Integration · Kotlin · Java · Jetpack Compose
-
----
-
-## 🧠 Currently Exploring
-
-- 🤖 AI-powered Android applications and practical AI integrations
-- 🏗️ Scalable application architecture and modularization
-- 🎨 Advanced Jetpack Compose UI patterns and visual testing
-- 🔬 The intersection of software engineering and biomedical technology
-
-
-<p align="center">
-  <i>Building reliable software, one commit at a time.</i>
-</p>

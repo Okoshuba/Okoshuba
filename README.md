@@ -52,21 +52,3 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-<div align="center">
-
-### LET'S CONNECT
-
-<a href="https://www.linkedin.com/in/olesya-shilova-a8065a169">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" color="#B3CCF7A9" width="28" alt="LinkedIn"/>
-</a>
-
-<a href="https://github.com/Okoshuba">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/github.svg" width="28" alt="GitHub"/>
-</a>
-
-<a href="mailto:kowubao@gmail.com">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" width="28" alt="Email"/>
-</a>
-
-</div>
